@@ -9,3 +9,4 @@ while True:
     con = input("TIẾP TỤC y, THOÁT THÌ NHẤN KÝ TỰ BẤT KỲ: ").strip().lower()
     if con != "y":
         break
+# Thêm dòng này
